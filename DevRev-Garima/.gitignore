@@ -2,9 +2,6 @@
 # All node dependencies
 node_modules
 
-# Typescript generated files
-**.js
-**.js.map
 
 # npm dependencies
 package-lock.json
